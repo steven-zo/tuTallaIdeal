@@ -39,8 +39,8 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Sueñas con ser de esa talla ideal?</div>
-                <div class="masthead-heading text-uppercase">Es hora de que tomes esa desicion!</div>
+                <div class="masthead-subheading">Sueñas con tener esa talla ideal?</div>
+                <div class="masthead-heading text-uppercase">Es hora de tomar la desicion!</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">De que trata?</a>
             </div>
         </header>
@@ -49,7 +49,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Como Funciona?</h2>
-                    <h3 class="section-subheading text-muted">Conoceras de que trata y como funciona.</h3>
+                    <h3 class="section-subheading text-muted"></h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
@@ -58,23 +58,23 @@
                             <i class="fas fa-capsules fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Medicamentos?</h4>
-                        <p class="text-muted">Se explica que no son medicamentos</p>
+                        <p class="text-muted">Rotundamente NO, todos nuestros productos son 100% naturales.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-carrot fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Sin dieta</h4>
-                        <p class="text-muted">se explica el porque</p>
+                        <h4 class="my-3">Dieta?</h4>
+                        <p class="text-muted">Gracias a los productos iras mejorando tu alimentacion poco a poco con el tratamiento.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-dumbbell fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Sin hacer ejercicio</h4>
-                        <p class="text-muted">Se explica el porque</p>
+                        <h4 class="my-3">Ejercicio?</h4>
+                        <p class="text-muted">No, ya que los productos eliminan la grasa y ayudan a moldear el cuerpo</p>
                     </div>
                 </div>
             </div>
