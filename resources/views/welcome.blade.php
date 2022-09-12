@@ -20,7 +20,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="..."/></a>
+                <a class="navbar-brand" href="#page-top"><img src="img/eslogan_navbar_1.png" alt="..."/></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
@@ -28,10 +28,10 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#services">Como Funciona?</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Catalogo</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">Mi historia</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#team">Equipo</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>
                     </ul>
                 </div>
             </div>
@@ -58,14 +58,14 @@
                             <i class="fas fa-capsules fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Medicamentos?</h4>
-                        <p class="text-muted">Rotundamente NO, todos nuestros productos son 100% naturales.</p>
+                        <p class="text-muted">NO, suplementos dietarios 100% naturales.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-carrot fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Dieta?</h4>
+                        <h4 class="my-3">Sin Dieta</h4>
                         <p class="text-muted">Gracias a los productos iras mejorando tu alimentacion poco a poco con el tratamiento.</p>
                     </div>
                     <div class="col-md-4">
@@ -73,7 +73,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-dumbbell fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Ejercicio?</h4>
+                        <h4 class="my-3">Sin Ejercicio</h4>
                         <p class="text-muted">No, ya que los productos eliminan la grasa y ayudan a moldear el cuerpo</p>
                     </div>
                 </div>
@@ -84,13 +84,13 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Catalogo</h2>
-                    <h3 class="section-subheading text-muted"></h3>
+                    <h3 class="section-subhea   ding text-muted"></h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
                         <!-- Portfolio item 5-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#diviher_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
@@ -105,7 +105,7 @@
                     <div class="col-lg-4 col-sm-6">
                         <!-- Portfolio item 8-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal8">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#macalife_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
@@ -120,7 +120,7 @@
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 1-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#gravilife_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
@@ -135,7 +135,7 @@
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 2-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#lifedig_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
@@ -150,7 +150,7 @@
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 3-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#vidlife_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
@@ -165,7 +165,7 @@
                     <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
                         <!-- Portfolio item 4-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#agyfort_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
@@ -181,7 +181,7 @@
                     <div class="col-lg-4 col-sm-6">
                         <!-- Portfolio item 6-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#libilife_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
@@ -196,14 +196,14 @@
                     <div class="col-lg-4 col-sm-6">
                         <!-- Portfolio item 7-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal7">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#proteclife_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
                                 <img class="img-fluid" src="assets/products/protec-life.jpeg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">PROTECT-LIFE</div>
+                                <div class="portfolio-caption-heading">PROTEC-LIFE</div>
                                 <div class="portfolio-caption-subheading text-muted">Photography</div>
                             </div>
                         </div>
@@ -211,7 +211,7 @@
                     <div class="col-lg-4 col-sm-6">
                         <!-- Portfolio item 8-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal8">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#juvent_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
@@ -227,7 +227,7 @@
                     <div class="col-lg-4 col-sm-6">
                         <!-- Portfolio item 8-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal8">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#jufres_modal">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
@@ -246,8 +246,8 @@
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">Mi Historia</h2>
+                    <h3 class="section-subheading text-muted">Te contare mas sobre mi, de como empecé, de como estoy y que hice para ser parte de este maravilloso mundo.</h3>
                 </div>
                 <ul class="timeline">
                     <li>
@@ -431,7 +431,93 @@
         </footer>
         <!-- Portfolio Modals-->
         <!-- Portfolio item 1 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="portfolio-modal modal fade" id="diviher_modal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">DIVI-HER</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
+                                    <p>- Elimina grasa localizada por medio de la liposis y termigenesis.<br>
+                                        - Sirve ara regular los niveles de azucar en la sangre(diabetes) por el contenido de cromo.<br>
+                                        - Combate el estreñimiento por la linaza y glucomanan.<br>
+                                        - Mejora la energia y la vitalidad.<br>
+                                        -Depura la sangre de grasas, es antioxidante por su contenido de te verde.<br>
+                                        -Aporta un mejor equilibrio en la concentracion metal y corporal.<br>
+                                        - Funciona como bypass natural, reduciendo peso y talla por su alto contenido de berenjena.
+                                    </p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Threads
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Illustration
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="portfolio-modal modal fade" id="macalife_modal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">MACA-LIFE</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
+                                    <p>- Facilita la digestion de las grasas por su alto contenido de lecitina de soya.<br>
+                                        - Fortalece el sistema oseo por su contenido de calcio.<br>
+                                        - Estimula los organos reproductivos.<br>
+                                        - Protege de la radiacion solar.<br>
+                                        - Ayuda al colico menstrual, hemorragias y sintomas de la menopausia.<br>
+                                        - Ayuda al funcionamiento del higado, musculos, cartilagos, huesos y dientes.<br>
+                                        - Ayuda a la fertilidad.
+                                        - Mejora los problema de difusion erectil.<br>
+                                        -Regula los niveles de colesterol.<br>
+                                        - Equilibra la glandula de la tiroides y acelera el metabolismo.<br>
+                                    </p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Threads
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Illustration
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-modal modal fade" id="gravilife_modal" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -443,7 +529,11 @@
                                     <h2 class="text-uppercase">GRAVI-LIFE</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
-                                    <p>Ayuda a reducir la aparicion de celulas cancerigenas facilitando la muerte prematura de estas celulas, siendo capaz de inhibir las metastasis en numerosos tumores. Ayuda a mejorar la calidad del tejido cerebral, reduciendo la progresion del alzheimer y afecciones neurologicas como el parkinson. Combate la hipertension, el asma, la diabetes, desordenes del higado y el cancer. efectivo para el dolor articular. Mejora los dolores causados por la fibromialgia y reumatismo. ayuda a retardar el envejecimiento. reduce la irritacion y deterioro de los tejidos.</p>
+                                    <p>- Ayuda a reducir la aparicion de celulas cancerigenas facilitando la muerte prematura de estas celulas, siendo capaz de inhibir las metastasis en numerosos tumores.<br> - Ayuda a mejorar la calidad del tejido cerebral, reduciendo la progresion del alzheimer y afecciones neurologicas como el parkinson.<br>
+                                    - Combate la hipertension, el asma, la diabetes, desordenes del higado y el cancer.<br>
+                                    - Efectivo para el dolor articular.<br> - Mejora los dolores causados por la fibromialgia y reumatismo.<br>
+                                    - Ayuda a retardar el envejecimiento.<br>
+                                    - Reduce la irritacion y deterioro de los tejidos.</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -466,7 +556,7 @@
             </div>
         </div>
         <!-- Portfolio item 2 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="portfolio-modal modal fade" id="lifedig_modal" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -475,10 +565,20 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <h2 class="text-uppercase">LIFE-DIG</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>- Mejora la circulacion de la sangre en el cuerpo.<br>
+                                        - Baja los niveles de colesterol y la presion arterial alta.<br>
+                                        - Ayuda a reducir el estres.<br>
+                                        - Es antibacteriana, antioxidante y antiinflamatoria.<br>
+                                        - Excelente desintoxicante.<br>
+                                        - Alcaliniza el cuerpo y reduciendo la inflamacion.<br>
+                                        - Ayuda a fortalecer el sistema inmunologico.<br>
+                                        - Calma naturalmente el malestar estomacal y romueve la digestion sana.<br>
+                                        - Mejora la inflamacion y las hemorroides.<br>
+                                        - Mejora el transito intestinal, el estreñimiento y la acidez estomacal.
+                                    </p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -501,7 +601,7 @@
             </div>
         </div>
         <!-- Portfolio item 3 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="portfolio-modal modal fade" id="vidlife_modal" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -510,10 +610,17 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <h2 class="text-uppercase">VID-LIFE</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>- Reduce calambres, vena varice y arañitas.<br>
+                                    - Elimina radicales libres.<br>
+                                    - Reduce presión arterial.<br>
+                                    - Limpia el cuerpo y lo oxigena.<br>
+                                    - Evita la produccion de celulas cancerigenas.<br>
+                                    - Previene envejecimiento.<br>
+                                    - Reduce Colesterol.<br>
+                                    - Mejora la mala circulacion.</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -536,7 +643,7 @@
             </div>
         </div>
         <!-- Portfolio item 4 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="portfolio-modal modal fade" id="agyfort_modal" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -545,10 +652,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <h2 class="text-uppercase">AGY-FORT</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>- Ayuda a combatir las convulsiones, el parkinson y el alzheimer.<br>
+                                    - Ayuda a la formacion de masa muscular.<br>
+                                    - Protege el hidago, huesos y la vision.<br>
+                                    - Fortalece el sistema nervioso.<br>
+                                    - Regula los niveles de colesterol y el peso corporal, facilitando la digestion de grasas<br>
+                                    - Retarda efectos de envejecimiento.<br>
+                                    - Ayuda al rendimiendo fisico, es excelente para deportistas.<br>
+                                    - Aporta un mejor equilibrio en la concentracion mental y corporal.<br>
+                                    - Enfocado a la energia, combate el cansancio y la anemia por su contenido de hierro.</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -571,7 +686,7 @@
             </div>
         </div>
         <!-- Portfolio item 5 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="portfolio-modal modal fade" id="libilife_modal" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -580,10 +695,20 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <h2 class="text-uppercase">LIBILIFE</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>- Reduce extraordinariamente el estres y mejora el funcionamiento del sistema nervioso.<br>
+                                        - Mejora la vida sexual y la fertilidad.<br>
+                                        - La arginina repara tejidos, cicatriza y estimula la hormona de crecimiento.<br>
+                                        - Ayuda a regular la funcion del sistema endocrino.<br>
+                                        - Ayuda en el cansancio fisico y mental.<br>
+                                        - Vitamina E antioxidante y ayuda a desintoxicar el higado.<br>
+                                        - Ayuda a fortalecer el sistema inmunologico.<br>
+                                        - Interviene en el metabolismo de las grasas.<br>
+                                        - Trata afecciones cardiovasculares y la disfuncion erectil<br>
+                                        - Ayuda a aumentar la fuerza, la resistencia, el rendimiento deportivo y la sensacion de bienestar.
+                                    </p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -606,7 +731,7 @@
             </div>
         </div>
         <!-- Portfolio item 6 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="portfolio-modal modal fade" id="proteclife_modal" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -615,10 +740,103 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <h2 class="text-uppercase">PROTEC-LIFE</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>
+                                        - Elimina bacterias, virus, infecciones y parasitos.<br>
+                                        - Refuerza el crecimiento y desarrollo en los niños.<br>
+                                        - Estimula el apetito de los niños y adultos mayores.<br>
+                                        - Puede suplir una cena o un desayuno.<br>
+                                        - Mejora la absorcion de nutrientes en el sistema digestivo.<br>
+                                        - Previene los dolores de cabeza y cataratas.<br>
+                                        - Mejora la piel y el cabello.<br>
+                                        - Mejora funcionamiento del sistema inmunologico.
+                                    </p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Window
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Photography
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="portfolio-modal modal fade" id="juvent_modal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">JU-VENT</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
+                                    <p>
+                                        - Reafirma la piel y recupera el cuerpo posterior al ejercicio.<br>
+                                        - Quita las manchas de la piel, puede ser aplicado sobre la piel como una mascarilla.<br>
+                                        - Disminuye la fatiga, el cansancio, el estres y la depresion.<br>
+                                        - Disminuye los dolores de rodilla, codos, dolores articulares, por su contenido de colageno<br>
+                                        - Mejora los dolores de cabeza, la artritis, reumatoidea y la gota.<br>
+                                        - Combate el estreñimiento y facilita la digestion.<br>
+                                        - Cicatriza mas rapido las heridas.<br>
+                                        - Ayuda al buen funcionamiento y crecimiento de uñas, cabello y nervios.<br>
+                                        - Fortalece las articulaciones previniendo el riesgo de fracturas por la osteoporosis.
+                                    </p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Window
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Photography
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="portfolio-modal modal fade" id="jufres_modal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">JUFRES</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
+                                    <p>
+                                        -
+                                    </p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
