@@ -835,7 +835,18 @@
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
                                     <p>
-                                        -
+                                        - Ayuda a combatir el acne.<br>
+                                        - Quita las manchas de la piel, puede ser aplicado sobre la piel como una mascarilla.<br>
+                                        - Elimina los radicales libres en la piel y los otros organos.<br>
+                                        - Mejora la memoria.<br>
+                                        - Ayuda a luchar contra la diabetes.<br>
+                                        - Ayuda a regular y disminuir la presion arterial.<br>
+                                        - Mejora el funcionamiento del sistema nervioso y esqueleto.<br>
+                                        - Estimula el crecimiento del cabello y uñas.<br>
+                                        - Mejora la firmeza de la piel brindando una piel mas bonita y con un mejor aspecto.<br>
+                                        - Disminuye manchas y resequedad de la piel.<br>
+                                        - Brinda proteccion contra los rayos solares.<br>
+                                        - Ayuda al rejuvenecimiento de la piel.
                                     </p>
                                     <ul class="list-inline">
                                         <li>
