@@ -352,8 +352,8 @@
         <section class="page-section" id="contact">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">Contactame</h2>
+                    <h3 class="section-subheading text-muted">Mandame un mensaje a mi correo o para una atencion personalizada escribeme a mi <a class="link" href="https://wa.me/573147521069">whatsapp</a></h3>
                 </div>
                 <!-- * * * * * * * * * * * * * * *-->
                 <!-- * * SB Forms Contact Form * *-->
@@ -367,25 +367,25 @@
                         <div class="col-md-6">
                             <div class="form-group">
                                 <!-- Name input-->
-                                <input class="form-control" id="name" type="text" placeholder="Your Name *" data-sb-validations="required" />
+                                <input class="form-control" id="name" type="text" placeholder="Tu Nombre *" data-sb-validations="required" />
                                 <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                             </div>
                             <div class="form-group">
                                 <!-- Email address input-->
-                                <input class="form-control" id="email" type="email" placeholder="Your Email *" data-sb-validations="required,email" />
+                                <input class="form-control" id="email" type="email" placeholder="Tu Email *" data-sb-validations="required,email" />
                                 <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
                             <div class="form-group mb-md-0">
                                 <!-- Phone number input-->
-                                <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" />
+                                <input class="form-control" id="phone" type="tel" placeholder="Tu Telefono *" data-sb-validations="required" />
                                 <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group form-group-textarea mb-md-0">
                                 <!-- Message input-->
-                                <textarea class="form-control" id="message" placeholder="Your Message *" data-sb-validations="required"></textarea>
+                                <textarea class="form-control" id="message" placeholder="Tu Mensaje *" data-sb-validations="required"></textarea>
                                 <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                             </div>
                         </div>
@@ -416,15 +416,11 @@
         <footer class="footer py-4">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-4 text-lg-start">Copyright &copy; Your Website 2022</div>
+                    <div class="col-lg-4 text-lg-start">Copyright &copy; Tu Talla Ideal</div>
                     <div class="col-lg-4 my-3 my-lg-0">
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-whatsapp"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                    <div class="col-lg-4 text-lg-end">
-                        <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
-                        <a class="link-dark text-decoration-none" href="#!">Terms of Use</a>
                     </div>
                 </div>
             </div>
