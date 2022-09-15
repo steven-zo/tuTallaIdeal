@@ -7,9 +7,10 @@
     <title>Correo</title>
 </head>
 <body>
-    <p>Nombre: {{ $name }}</p><br>
-    <p>Telefono: {{ $phone }}</p><br>
-    <p>Correo: {{ $email }}</p>
-    <p>mensaje: {{ $message }}<p>
+
+    <p>Nombre: {{ $datos['name'] }}</p>
+    <p>Telefono: {{ $datos['phone'] }}</p>
+    <p>Correo: {{ $datos['email'] }}</p>
+    <p>mensaje: {{ $datos['message'] }}<p>
 </body>
 </html>
